@@ -1,0 +1,6 @@
+{
+  "name": "Murat Krhl's WorkSpace",
+  "description": "Work. Tools. Projects. Ideas. Everything I need, in one place. Enterprise workspace for environments, project management, tools, and knowledge hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "redhat-jboss-eap",
+    "name": "Red Hat JBoss Enterprise Application Platform",
+    "vendor": "Red Hat",
+    "category": "Application Server",
+    "description": "JBoss EAP sürüm geçmişi, kaynaklar, uyumluluk ve destek politikası.",
+    "logo": null,
+    "dataFile": "jboss-eap.json",
+    "trackingEnabled": true,
+    "installedVersion": null
+  }
+]
